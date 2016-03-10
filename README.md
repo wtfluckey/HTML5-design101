@@ -29,3 +29,4 @@ Talk given at HTML5 Meetup - March 10, 2016
 - [Codrops - tutorials and playground](http://tympanus.net/codrops/)
 - [Chris Gannon - SVG tutorials](http://gannon.tv/)
 - [A Book Apart series - brief books for people who make websites](http://abookapart.com/)
+- [Learn CSS Layout](http://learnlayout.com/)
