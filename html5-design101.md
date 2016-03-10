@@ -1,9 +1,6 @@
-# Design 101
-### *with Aly Fluckey*
-
----
-
-![inline](tablexi-logo.png)
+# [fit] Design 101
+### [fit] *with Aly Fluckey*
+![inline 90%](tablexi-logo.png)
 
 ---
 

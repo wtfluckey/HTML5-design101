@@ -4,9 +4,6 @@ Talk given at HTML5 Meetup - March 10, 2016
 ## [View Slides Here](https://speakerdeck.com/wtfluckey/design-101-tips-and-tricks)
 ### [View Slides with Notes without pretty styles](https://github.com/wtfluckey/dbc-design-talk/blob/master/dbc-design101.md)
 
-## Resources:
-- [Balsamiq, wireframing tool](https://balsamiq.com/)
-
 ### Colors
 - [Understanding qualities & characteristics of color](http://webdesign.tutsplus.com/articles/understanding-the-qualities-and-characteristics-of-color--webdesign-13292)
 - [Colorhexa](http://www.colorhexa.com/02ddc7)
@@ -27,6 +24,7 @@ Talk given at HTML5 Meetup - March 10, 2016
 ### Play & Practice
 - [Design School for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 - [Codrops - tutorials and playground](http://tympanus.net/codrops/)
+- [CodeMyUi.com](http://codemyui.com/)
 - [Chris Gannon - SVG tutorials](http://gannon.tv/)
 - [A Book Apart series - brief books for people who make websites](http://abookapart.com/)
 - [Learn CSS Layout](http://learnlayout.com/)
